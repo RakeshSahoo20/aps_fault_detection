@@ -26,4 +26,7 @@ pandas
 ## [1st creat a new folder and add data/code to this folder, git add . , git commit -m "added a new file",
 # git push origin main]
 
+## one change code in readme file [first we do changes in file , then see git status , gid add readme.md, then check git status, git commit -m "changes massge"]
+
+
 
