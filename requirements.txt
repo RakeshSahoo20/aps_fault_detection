@@ -11,5 +11,19 @@ pandas
 ## git remote add origin (github link)
 
 ### for pushing vscode to github repo [git push origin main (origin is variable of new github link and main is file name)]
+ ## for delete all the comiit [git reset --soft{in soft all head is remove but code not deleted}]
+ ## in hard reset all the data is deleted
+## here we do soft reset [ git reset --soft 6afd]
+## git add .
+### git status (see all the file which is mpodified and execting)
+
+## befor commiting new version of code after doing all testing and all
+### [git config --global user.email rakesh.sahoo15@gmail.com, ]
+# [git config --global user.name RakeshSahoo20]
+# [git commit -m "this is our first version of code"]
+
+### for a new folder added to github repo after commiting github repo
+## [1st creat a new folder and add data/code to this folder, git add . , git commit -m "added a new file",
+# git push origin main]
 
 
