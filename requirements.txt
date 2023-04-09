@@ -1,0 +1,15 @@
+pymongo
+pandas
+
+##### to install any librery write it in requirement.txt and write in terminal 
+##### pip install -r requirements.txt
+#### to see any other github repo link with your vs code
+#### (git remote -v)
+### for remove the execting origin repo (for conecting github repo with vs code)
+### code is git remote remove origin
+## for adding new repo with this vs code
+## git remote add origin (github link)
+
+### for pushing vscode to github repo [git push origin main (origin is variable of new github link and main is file name)]
+
+
