@@ -1,0 +1,4 @@
+### in every project start first we need to creat setup.py file.
+
+## distribution of source code use in every where
+## 
