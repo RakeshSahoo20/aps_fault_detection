@@ -16,9 +16,7 @@ xgboost==1.6.2
 pandas
 PyYAML
 numpy
-scikit-learn
-apache-airflow
--e .
+
 
 ##### to install any librery write it in requirement.txt and write in terminal 
 ##### pip install -r requirements.txt
